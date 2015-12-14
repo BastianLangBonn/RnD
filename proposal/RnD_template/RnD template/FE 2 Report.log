@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.18)  14 DEC 2015 17:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.18)  14 DEC 2015 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -328,17 +328,17 @@ LaTeX Info: Redefining \nameref on input line 9.
 \openout3 = `"FE 2 Report.out"'.
 
  (./Title.tex) (./abstract.tex)
-(./introduction.tex) (./Content.tex
-<images/ai.jpg, id=33, 550.055pt x 426.59375pt>
+(./introduction.tex) (./Content.tex [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] <images/ai.jpg, id=45, 550
+.055pt x 426.59375pt>
 File: images/ai.jpg Graphic file (type jpg)
- <use images/ai.jpg>
+
+<use images/ai.jpg>
 Package pdftex.def Info: images/ai.jpg used on input line 9.
 (pdftex.def)             Requested size: 426.79134pt x 331.0103pt.
-)
-(./summary.tex [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./images/ai.jpg>]) (./
-BibSetting.tex (./FE 2 Report.bbl))
+) (./summary.tex [2 <./images/ai.jpg>]) (./BibSetting.tex
+(./FE 2 Report.bbl))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
  [3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
@@ -347,16 +347,20 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
 Package rerunfilecheck Info: File `"FE 2 Report".out' has not changed.
 (rerunfilecheck)             Checksum: C4A36764E8BC969D0B5BBCC779619813;268.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 25.
  ) 
 Here is how much of TeX's memory you used:
  5937 strings out of 493304
  85982 string characters out of 6139871
- 174468 words of memory out of 5000000
+ 175468 words of memory out of 5000000
  9284 multiletter control sequences out of 15000+600000
  10659 words of font info for 40 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 36i,13n,31p,247b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,13n,31p,363b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
@@ -366,7 +370,7 @@ fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmti10.pfb>
-Output written on "FE 2 Report.pdf" (3 pages, 295730 bytes).
+Output written on "FE 2 Report.pdf" (3 pages, 301440 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
