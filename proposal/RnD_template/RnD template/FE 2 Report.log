@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.18)  14 DEC 2015 17:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.18)  14 DEC 2015 23:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **"FE 2 Report.tex"
 (./FE 2 Report.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+Babel <3.9h> and hyphenation patterns for 9 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
@@ -347,19 +347,15 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
 Package rerunfilecheck Info: File `"FE 2 Report".out' has not changed.
 (rerunfilecheck)             Checksum: C4A36764E8BC969D0B5BBCC779619813;268.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 25.
  ) 
 Here is how much of TeX's memory you used:
- 5937 strings out of 493304
- 85982 string characters out of 6139871
- 175468 words of memory out of 5000000
- 9284 multiletter control sequences out of 15000+600000
+ 5937 strings out of 494935
+ 85982 string characters out of 6178122
+ 171593 words of memory out of 5000000
+ 9058 multiletter control sequences out of 15000+600000
  10659 words of font info for 40 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
+ 36 hyphenation exceptions out of 8191
  36i,13n,31p,363b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
@@ -370,7 +366,7 @@ fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmti10.pfb>
-Output written on "FE 2 Report.pdf" (3 pages, 301440 bytes).
+Output written on "FE 2 Report.pdf" (3 pages, 301072 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream

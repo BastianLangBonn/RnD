@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.18)  14 DEC 2015 16:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.18)  14 DEC 2015 23:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **PaperInformation.tex
 (./PaperInformation.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+Babel <3.9h> and hyphenation patterns for 9 languages loaded.
 )
 ! Emergency stop.
 <*> PaperInformation.tex
@@ -14,11 +14,11 @@ Babel <3.9h> and hyphenation patterns for 78 languages loaded.
 
  
 Here is how much of TeX's memory you used:
- 14 strings out of 493304
- 288 string characters out of 6139871
- 51880 words of memory out of 5000000
- 3573 multiletter control sequences out of 15000+600000
+ 14 strings out of 494935
+ 288 string characters out of 6178122
+ 46369 words of memory out of 5000000
+ 3347 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 7i,0n,6p,129b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36 hyphenation exceptions out of 8191
+ 7i,0n,6p,137b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
